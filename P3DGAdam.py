@@ -11,6 +11,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from P1MinimosCuadrados import minimos_cuadrados
 #=================================
 #Funcion Descenso de Gradiente (ADAM)
 #===================================
