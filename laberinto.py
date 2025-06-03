@@ -1,3 +1,13 @@
+#Programa 19: laberinto
+#=================================
+# Angelica Abigail Ramos Hernandez
+# Fundamentos de IA
+# Matematica Algoritmica
+# ESFM IPN
+# Junio 2025
+#==========================
+
+
 """
 License
 https://www.youtube.com/c/LearningOrbis
