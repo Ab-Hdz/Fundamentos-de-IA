@@ -1,3 +1,12 @@
+#Programa 18: Serpiente
+#=================================
+# Angelica Abigail Ramos Hernandez
+# Fundamentos de IA
+# Matematica Algoritmica
+# ESFM IPN
+# Mayo 2025
+#==========================
+
 import pygame
 import random
 from enum import Enum
